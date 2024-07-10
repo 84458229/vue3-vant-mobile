@@ -1,0 +1,11 @@
+:root {
+  --font-size-32: 32px;
+  --font-size-36: 36px;
+  --font-size-48: 48px;
+  --font-color-white: #fff;
+  --font-color-black: #18151f;
+}
+
+body {
+  font-family: Source Han Sans CN;
+}
